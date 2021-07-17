@@ -1,3 +1,10 @@
+Quick steps to set-up the project:
+
+
+1. Run `npm i` to install all the dependencies  
+2. Run `npm start` to start a development server
+3. To access the server, open `localhost:3000` on a browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
